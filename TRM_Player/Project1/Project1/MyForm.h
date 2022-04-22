@@ -19,6 +19,8 @@ namespace Project1 {
 		MyForm(void)
 		{
 			InitializeComponent();
+			
+			axWindowsMediaPlayer1->uiMode = "none";
 			auto a = System::IO::File::ReadAllLines("last_video.txt");
 			if (System::IO::File::ReadAllText("last_video.txt") != "" && System::Convert::ToInt32(a[4]) > 1)
 			{
