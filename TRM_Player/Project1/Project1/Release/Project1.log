@@ -1,5 +1,0 @@
-﻿  COM-ссылка "WMPLib.1.0" является сборкой взаимодействия для элемента ActiveX "AxWMPLib.1.0", но была помечена на компоновку компилятором флагом /link. Эта COM-ссылка будет считаться ссылкой и не будет скомпонована.
-  MyForm.cpp
-C:\Users\User\Desktop\TRM_Player\Project1\Project1\MyForm.h(502,21): warning C4101: e: неиспользованная локальная переменная
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  Project1.vcxproj -> C:\Users\User\Desktop\TRM_Player\Project1\Release\Project1.exe
